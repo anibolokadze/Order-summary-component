@@ -33,7 +33,7 @@ body{
     padding-bottom: 16px;
 }
 
-.img-wrapper{
+img:first-child{
     width: 100%;
 }
 .info-container{
