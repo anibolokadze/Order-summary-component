@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 body{
-    background-image: url(/pattern-background-mobile.svg);
+    background-image: url(images/pattern-background-mobile.svg);
     background-repeat: no-repeat;
     background-attachment: fixed; 
     background-size:  100%;
@@ -144,7 +144,7 @@ a:hover{
 /* responsive */
 @media (min-width:1440px) {
     body{
-        background-image: url(/pattern-background-desktop.svg);
+        background-image: url(images/pattern-background-desktop.svg);
     }
     .main-container{
         max-width: 450px;
