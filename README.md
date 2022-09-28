@@ -7,6 +7,9 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ![desktop-design](https://user-images.githubusercontent.com/89190087/192852653-151eb5aa-e679-412e-bdaa-a68f8a5a0935.jpg)
 
+![order-summary-card-mobile](https://user-images.githubusercontent.com/89190087/192868564-50cb6f46-e304-41c9-9c7a-b4e1f446318d.png)
+
+
 ## The challenge
 The clallenge is to build out card item and get it looking as close to the design as possible by using HTML and CSS.
 
