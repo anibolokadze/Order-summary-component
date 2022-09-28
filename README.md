@@ -16,3 +16,13 @@ Users should be able to:
 The designs were created to the following widths:
 - Mobile: 375px
 - Desktop: 1440px
+
+## Built with
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- Mobile-first workflow
+
+## What I learned
+This challenge is mainly focused on using hover correctly. 
+Therefore, I have gained a little experience with how hovers work.
