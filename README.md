@@ -6,7 +6,6 @@ This is solution to <a href="https://www.frontendmentor.io/challenges/order-summ
 Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ![desktop-design](https://user-images.githubusercontent.com/89190087/192852653-151eb5aa-e679-412e-bdaa-a68f8a5a0935.jpg)
-
 ![order-summary-card-mobile](https://user-images.githubusercontent.com/89190087/192868564-50cb6f46-e304-41c9-9c7a-b4e1f446318d.png)
 
 
