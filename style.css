@@ -18,7 +18,7 @@ body{
     font-family: 'Red Hat Display', sans-serif;
     
 }
-article{
+.main-container{
     max-width: 327px;
     border-radius: 20px;
     background: #FFFFFF;
@@ -26,7 +26,7 @@ article{
     overflow: hidden;
     margin: 5px;
 }
-article h1{
+.main-container h1{
     font-weight: 900;
     font-size: 22px;
     line-height: 29px;
@@ -65,7 +65,9 @@ article h1{
     align-items: center;
     justify-content: space-around;
 }
-
+.plan-info{
+    margin-right: 20px;
+}
 .plan-container img{
     width: 48px;
     height: 48px;
@@ -144,16 +146,19 @@ a:hover{
     body{
         background-image: url(/pattern-background-desktop.svg);
     }
-    .info-container{
-        padding: 48px ;
+    .main-container{
+        max-width: 450px;
     }
-    article h1{
+    .main-container h1{
         font-size: 28px;
         line-height: 37px;  
     }
-    article p{
+    .main-container p{
         font-size: 16px;
         line-height: 26px;
+    }
+    .info-container{
+        padding:48px;
     }
     .plan-container h3{
         font-size: 16px;
