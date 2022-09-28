@@ -25,4 +25,4 @@ The designs were created to the following widths:
 
 ## What I learned
 This challenge is mainly focused on using hover correctly. 
-Therefore, I have gained a little experience with how hovers work.
+Therefore, I have gained a little experience with how hover works. 🚀
