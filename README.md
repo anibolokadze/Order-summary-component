@@ -5,6 +5,8 @@ This is solution to <a href="https://www.frontendmentor.io/challenges/order-summ
 
 Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
+Live Site URL: https://anibolokadze.github.io/Order-summary-component/
+
 ![desktop-design](https://user-images.githubusercontent.com/89190087/192852653-151eb5aa-e679-412e-bdaa-a68f8a5a0935.jpg)
 
 
